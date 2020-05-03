@@ -1,0 +1,92 @@
+* {
+	box-sizing: border-box;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color:black;
+}
+h1 {
+	font-family: sans-serif;
+	font-weight: bold;
+	color:black;
+}
+body{
+	background: rgb(219, 219, 240);
+}
+p{
+	padding:10px;
+	margin:0;
+
+}
+section{
+	background:rgb(143, 171, 212);
+	font-weight: 800;
+	margin-bottom: 20px;
+}
+.container {	
+	width: 100%;
+	border:2px solid black;
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-top:0;
+	padding:10px;
+
+}
+.nav-brand{
+	border: 0 0 10px 10px;
+	margin:0;
+
+	font-size: 1.8em;
+	font-weight: bold;
+	color:black;
+	
+}
+#header-nav{
+	background:rgb(143, 171, 212);
+	margin-bottom: 10px;
+	border-color: solid black;
+	margin:0;
+}
+h3{
+	text-align: center;
+	padding-top: 10px;
+	font-weight: bold;
+}
+#collapsable-nav{
+	border: 0;
+    margin: 0;
+    padding-top: 0;
+}
+.item{
+	font-size: 1.3em;
+	margin:-10px;
+	padding:0;
+
+}
+
+.navbar-header button.navbar-toggle{
+	margin-right: 30px;
+	clear: both;
+	border: 1px solid black; 
+	margin-top: -45px;
+
+  }
+  .navbar-header .icon-bar{
+	border: 2px solid black;
+  }
+  
+  #collapsable-nav{
+	
+	border: 0;
+	margin: 0;
+	padding-top: 0;
+  }
+  .btt{
+	  color: blue;
+	  background:white;
+	  padding:2px;
+  }
+  hr {
+	border-color: white;
+  }
+  
+  
